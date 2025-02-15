@@ -89,7 +89,6 @@
       <attributes>
         <item>KeepTextAndBackgroundColor</item>
         <item>WriteTaggedPdf</item>
-        <item>UseAutoPageSizeAndMargins</item>
         <item>KeepRunningTitles</item>
         <item>KeepPictures</item>
         <item>OverloadProfileByPictureOptions</item>
@@ -123,6 +122,10 @@
           <resolutionValue>-1</resolutionValue>
         </colorPictureResolutionOptions>
       </pictureOptions>
+      <paperSizeOptions>
+        <version>0</version>
+        <mode>UserDefined</mode>
+      </paperSizeOptions>
       <mrcMode>Disable</mrcMode>
     </pdfOptions>
     <textOptions>
